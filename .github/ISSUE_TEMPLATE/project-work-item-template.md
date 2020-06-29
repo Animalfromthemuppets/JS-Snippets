@@ -7,6 +7,16 @@ assignees: ''
 
 ---
 
-Project:
-PM:
-Description / Task lists:
+<h3>Project:</h3>
+
+
+<h3>PM:</h3>
+
+
+<h3>Description / Task lists:</h3>
+-
+-
+-
+
+Ready to start:
+- [] Dependencies closed
