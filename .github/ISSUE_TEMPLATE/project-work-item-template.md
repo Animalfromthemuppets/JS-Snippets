@@ -15,12 +15,11 @@ assignees: ''
 
 <h3>Description / Acceptance Criteria:</h3>
 1.
+
 2.
+
 3. 
 
 Ready to start:
- - [ ] Screen width (integer)
- - [x] Service worker support
- - [x] Fetch support
- - [ ] CSS flexbox support
- - [ ] Custom elements
+ - [ ] Criteria a
+ - [x] Criteria B
