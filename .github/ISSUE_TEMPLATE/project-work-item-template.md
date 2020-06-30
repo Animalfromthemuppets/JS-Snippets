@@ -13,10 +13,14 @@ assignees: ''
 <h3>PM:</h3>
 
 
-<h3>Description / Task lists:</h3>
--
--
--
+<h3>Description / Acceptance Criteria:</h3>
+1.
+2.
+3. 
 
 Ready to start:
-Dependencies closed  - [ ]
+ - [ ] Screen width (integer)
+ - [x] Service worker support
+ - [x] Fetch support
+ - [ ] CSS flexbox support
+ - [ ] Custom elements
