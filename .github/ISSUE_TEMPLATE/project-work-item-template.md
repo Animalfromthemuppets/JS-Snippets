@@ -19,4 +19,4 @@ assignees: ''
 -
 
 Ready to start:
-- [] Dependencies closed
+Dependencies closed  - [ ]
